@@ -1,7 +1,7 @@
 # Any Heart Disease?
  Heart disease prediction by machine learning algorithms with graphical user interface
  
-                                                                       Algorithm Uses
+                                                 Algorithm Uses
 Logistic Regression
 
 Decision Trees
